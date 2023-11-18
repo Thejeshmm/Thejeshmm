@@ -1,25 +1,40 @@
-<h1 align="center">Hi 👋, I'm M Thejesh</h1>
-<h3 align="center">A passionate Senior DevOps Engineer from India</h3>
+# Welcome to My GitHub Profile! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thejeshmm&label=Profile%20views&color=0e75b6&style=flat" alt="thejeshmm" /> </p>
+## About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thejeshmm" alt="thejeshmm" /></a> </p>
+Hello there! I'm [Your Name], a passionate DevOps engineer with a keen interest in automating and optimizing software development and deployment processes. I thrive on creating efficient and scalable solutions to enhance the overall software delivery lifecycle.
 
-- 🌱 I’m currently learning **DevOps**
+## Skills
 
-- 🤝 I’m looking for help with **DevOps**
+- **DevOps:** Experienced in implementing DevOps practices to improve collaboration between development and operations teams, streamlining workflows, and accelerating delivery.
 
-- 📫 How to reach me **thejeshmm@gmail.com**
+- **Git:** Proficient in version control using Git, with a strong understanding of branching strategies, code reviews, and collaboration using platforms like GitHub.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- **Build Tools:** Skilled in build automation using Maven and Ant, ensuring consistent and reproducible builds across different environments.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+- **Containerization:** Knowledgeable in containerization using Docker, enabling the creation and deployment of lightweight, portable, and scalable applications.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thejeshmm&show_icons=true&locale=en&layout=compact" alt="thejeshmm" /></p>
+- **Configuration Management:** Proficient in infrastructure as code (IaC) using Ansible, facilitating the automation of configuration management tasks and ensuring consistency across servers.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thejeshmm&show_icons=true&locale=en" alt="thejeshmm" /></p>
+- **Continuous Integration/Continuous Deployment (CI/CD):** Experienced in setting up CI/CD pipelines with Jenkins, automating the testing and deployment processes for faster and more reliable software releases.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thejeshmm&" alt="thejeshmm" /></p>
+- **Cloud Services:** Well-versed in cloud computing with a focus on Amazon Web Services (AWS), including services such as EC2, S3, RDS, and Lambda.
+
+## Projects
+
+- **[Project Name 1](link to project):** A brief description of the project and your role in implementing DevOps practices.
+
+- **[Project Name 2](link to project):** Another notable project showcasing your expertise in automation and deployment.
+
+## Certifications
+
+- **AWS Certified Solutions Architect – Associate:** [Credential ID](link to credential)
+
+## Let's Connect!
+
+Feel free to reach out if you share similar interests, have collaboration opportunities, or just want to chat about all things DevOps!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedinprofile/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2)](https://twitter.com/yourtwitterhandle)
+
+Happy coding! 🚀
