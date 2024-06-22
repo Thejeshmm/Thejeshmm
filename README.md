@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m Working as a **senior DevOps Engineer**
 
 - 📫 How to reach me **thejeshmm@gmail.com**
 
